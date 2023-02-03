@@ -1,7 +1,3 @@
 title: Tom Moschides
 theme: jekyll-theme-minimal
 
-layout: page
-  title: "Tic-tac-toe"
-  permalink: /tictactoe
-
